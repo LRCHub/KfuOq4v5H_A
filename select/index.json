@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "イントロダクション",
+  "base_artist": "Poppin'Party",
+  "createdAt": "2026-01-12T13:22:56.872493Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イントロダクション",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/01_イントロダクション_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イントロダクション (序曲)",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/02_イントロダクション_(序曲)_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(イントロダクション)",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/03_(イントロダクション)_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(イントロダクション) [2022 Lacquer Master Sound] - 2022 Lacquer Master Sound",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/04_(イントロダクション)_[2022_Lacquer_Master_Sound]_-_2022_Lacquer_Master_Sound_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イントロダクション~ハラペコのガキの歌",
+      "artist": "Yura Yura Teikoku",
+      "has_synced": false,
+      "path": "select/05_イントロダクション~ハラペコのガキの歌_Yura_Yura_Teikoku.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "イントロダクション～ハラペコのガギの歌",
+      "artist": "Yura Yura Teikoku",
+      "has_synced": false,
+      "path": "select/06_イントロダクション~ハラペコのガギの歌_Yura_Yura_Teikoku.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "イントロダクション",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/07_イントロダクション_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "イントロダクション -instrumental-",
+      "artist": "Poppin'Party",
+      "has_synced": false,
+      "path": "select/08_イントロダクション_-instrumental-_Poppin'Party.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "イントロダクション -instrumental-",
+      "artist": "Poppin'Party",
+      "has_synced": true,
+      "path": "select/09_イントロダクション_-instrumental-_Poppin'Party.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "イントロダクション",
+      "artist": "buzzG",
+      "has_synced": false,
+      "path": "select/10_イントロダクション_buzzG.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イントロダクション",
+      "artist": "Poppin' Party",
+      "has_synced": false,
+      "path": "select/pl_01_イントロダクション_Poppin'_Party.txt"
+    }
+  ]
+}
